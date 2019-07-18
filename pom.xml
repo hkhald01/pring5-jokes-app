@@ -34,6 +34,7 @@
             <artifactId>chuck-norris-for-actuator</artifactId>
             <version>0.0.2</version>
         </dependency>
+
     </dependencies>
 
     <build>
